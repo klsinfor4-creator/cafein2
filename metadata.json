@@ -1,0 +1,7 @@
+{
+  "name": "Cafein - Your Coffee Sanctuary",
+  "description": "A premium web experience for Cafein, a cozy space for coffee lovers featuring specialty brews from Nusantara, a modern workspace environment, and a vibrant creative community.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
